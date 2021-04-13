@@ -1,8 +1,11 @@
 # covid-senti
 Spring 2021 project for 140 BSS group
 
-Annotation data sample:
+Annotation data:
   https://docs.google.com/spreadsheets/d/1h-FwATWcuefflaI2zuCbqzrDQldH1Tq_b6kg0mWiyOI/edit?usp=sharing
+
+Annotation guideline:
+  https://docs.google.com/document/d/1i2YxChICA7PZ5Bh_TlFsTnkHqFBpA3-Z2MGYI1gjWkA/edit?usp=sharing
 
 Annotator ids:<br />
 <ul>
