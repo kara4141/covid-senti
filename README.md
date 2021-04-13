@@ -6,19 +6,14 @@ Annotation data sample:
 
 Annotator ids:<br />
 <ul>
-<li>xxx: A</li>
-<li>xxx: B</li>
-<li>xxx: C</li>
-<li>xxx: D</li>
+<li>Michael: A</li>
+<li>Parker: B</li>
+<li>June: C</li>
 </ul>
 
 First week file:<br />
 <ul>
-<li>xxx: A: Pfizer comments: 0-100</li>
-<li>xxx: B: Pfizer comments: 0-100</li>
-<li>xxx: C: Pfizer comments: 100-200</li>
-<li>xxx: D: Pfizer comments: 100-200</li>
+<li>xxx: A,B: Pfizer comments: 0-300</li>
+<li>xxx: B,C: Pfizer comments: 301-600</li>
+<li>xxx: A,C: Pfizer comments: 601-900</li>
 </ul>
-
-Pfizer data real link:
-  https://docs.google.com/spreadsheets/d/1h-FwATWcuefflaI2zuCbqzrDQldH1Tq_b6kg0mWiyOI/edit?usp=sharing
