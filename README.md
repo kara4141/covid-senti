@@ -20,3 +20,10 @@ First week file:<br />
 <li>xxx: B,C: comments: 301-600</li>
 <li>xxx: A,C: comments: 601-900</li>
 </ul>
+
+Second week file:<br />
+<ul>
+<li>xxx: A,B: comments: 900-1150</li>
+<li>xxx: B,C: comments: 1151-1400</li>
+<li>xxx: A,C: comments: 1401-1623</li>
+</ul>
