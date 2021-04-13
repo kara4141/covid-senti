@@ -16,7 +16,7 @@ Annotator ids:<br />
 
 First week file:<br />
 <ul>
-<li>xxx: A,B: Pfizer comments: 0-300</li>
-<li>xxx: B,C: Pfizer comments: 301-600</li>
-<li>xxx: A,C: Pfizer comments: 601-900</li>
+<li>xxx: A,B: comments: 0-300</li>
+<li>xxx: B,C: comments: 301-600</li>
+<li>xxx: A,C: comments: 601-900</li>
 </ul>
